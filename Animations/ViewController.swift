@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("simple animating ......")
         // Do any additional setup after loading the view, typically from a nib.
     }
     @IBAction func startTap(_ sender: UIButton) {
