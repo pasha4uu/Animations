@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("simple animating ......")
+        
+        print("1234567890")
         // Do any additional setup after loading the view, typically from a nib.
     }
     @IBAction func startTap(_ sender: UIButton) {
