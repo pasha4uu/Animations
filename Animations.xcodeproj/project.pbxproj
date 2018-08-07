@@ -14,6 +14,16 @@
 		651072422119B4560033AC94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 651072402119B4560033AC94 /* LaunchScreen.storyboard */; };
 		6510724D2119B4560033AC94 /* AnimationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6510724C2119B4560033AC94 /* AnimationsTests.swift */; };
 		651072582119B4560033AC94 /* AnimationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651072572119B4560033AC94 /* AnimationsUITests.swift */; };
+		6510726F2119B4990033AC94 /* frame_9_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 651072652119B4970033AC94 /* frame_9_delay-0s.png */; };
+		651072702119B4990033AC94 /* frame_10_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 651072662119B4970033AC94 /* frame_10_delay-0s.png */; };
+		651072712119B4990033AC94 /* frame_4_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 651072672119B4970033AC94 /* frame_4_delay-0s.png */; };
+		651072722119B4990033AC94 /* frame_6_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 651072682119B4980033AC94 /* frame_6_delay-0s.png */; };
+		651072732119B4990033AC94 /* frame_5_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 651072692119B4980033AC94 /* frame_5_delay-0s.png */; };
+		651072742119B4990033AC94 /* frame_7_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 6510726A2119B4980033AC94 /* frame_7_delay-0s.png */; };
+		651072752119B4990033AC94 /* frame_1_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 6510726B2119B4980033AC94 /* frame_1_delay-0s.png */; };
+		651072762119B4990033AC94 /* frame_3_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 6510726C2119B4980033AC94 /* frame_3_delay-0s.png */; };
+		651072772119B4990033AC94 /* frame_8_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 6510726D2119B4980033AC94 /* frame_8_delay-0s.png */; };
+		651072782119B4990033AC94 /* frame_2_delay-0s.png in Resources */ = {isa = PBXBuildFile; fileRef = 6510726E2119B4990033AC94 /* frame_2_delay-0s.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		651072532119B4560033AC94 /* AnimationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		651072572119B4560033AC94 /* AnimationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsUITests.swift; sourceTree = "<group>"; };
 		651072592119B4560033AC94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		651072652119B4970033AC94 /* frame_9_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_9_delay-0s.png"; sourceTree = "<group>"; };
+		651072662119B4970033AC94 /* frame_10_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_10_delay-0s.png"; sourceTree = "<group>"; };
+		651072672119B4970033AC94 /* frame_4_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_4_delay-0s.png"; sourceTree = "<group>"; };
+		651072682119B4980033AC94 /* frame_6_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_6_delay-0s.png"; sourceTree = "<group>"; };
+		651072692119B4980033AC94 /* frame_5_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_5_delay-0s.png"; sourceTree = "<group>"; };
+		6510726A2119B4980033AC94 /* frame_7_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_7_delay-0s.png"; sourceTree = "<group>"; };
+		6510726B2119B4980033AC94 /* frame_1_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_1_delay-0s.png"; sourceTree = "<group>"; };
+		6510726C2119B4980033AC94 /* frame_3_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_3_delay-0s.png"; sourceTree = "<group>"; };
+		6510726D2119B4980033AC94 /* frame_8_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_8_delay-0s.png"; sourceTree = "<group>"; };
+		6510726E2119B4990033AC94 /* frame_2_delay-0s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame_2_delay-0s.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +117,16 @@
 		651072362119B4540033AC94 /* Animations */ = {
 			isa = PBXGroup;
 			children = (
+				6510726B2119B4980033AC94 /* frame_1_delay-0s.png */,
+				6510726E2119B4990033AC94 /* frame_2_delay-0s.png */,
+				6510726C2119B4980033AC94 /* frame_3_delay-0s.png */,
+				651072672119B4970033AC94 /* frame_4_delay-0s.png */,
+				651072692119B4980033AC94 /* frame_5_delay-0s.png */,
+				651072682119B4980033AC94 /* frame_6_delay-0s.png */,
+				6510726A2119B4980033AC94 /* frame_7_delay-0s.png */,
+				6510726D2119B4980033AC94 /* frame_8_delay-0s.png */,
+				651072652119B4970033AC94 /* frame_9_delay-0s.png */,
+				651072662119B4970033AC94 /* frame_10_delay-0s.png */,
 				651072372119B4540033AC94 /* AppDelegate.swift */,
 				651072392119B4540033AC94 /* ViewController.swift */,
 				6510723B2119B4540033AC94 /* Main.storyboard */,
@@ -230,7 +260,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				651072422119B4560033AC94 /* LaunchScreen.storyboard in Resources */,
+				651072742119B4990033AC94 /* frame_7_delay-0s.png in Resources */,
+				651072702119B4990033AC94 /* frame_10_delay-0s.png in Resources */,
+				651072762119B4990033AC94 /* frame_3_delay-0s.png in Resources */,
+				6510726F2119B4990033AC94 /* frame_9_delay-0s.png in Resources */,
+				651072772119B4990033AC94 /* frame_8_delay-0s.png in Resources */,
+				651072712119B4990033AC94 /* frame_4_delay-0s.png in Resources */,
+				651072722119B4990033AC94 /* frame_6_delay-0s.png in Resources */,
 				6510723F2119B4560033AC94 /* Assets.xcassets in Resources */,
+				651072732119B4990033AC94 /* frame_5_delay-0s.png in Resources */,
+				651072782119B4990033AC94 /* frame_2_delay-0s.png in Resources */,
+				651072752119B4990033AC94 /* frame_1_delay-0s.png in Resources */,
 				6510723D2119B4540033AC94 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
